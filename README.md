@@ -8,18 +8,16 @@
 
 </div>
 
----
 
 ```yaml
 # whoami
 location:    "Ho Chi Minh City, Vietnam"
-experience:  "3+ years"
+experience:  "1+ years"
 focus:       ["Backend", "Cloud", "DevOps", "System Design"]
 learning:    ["Microservices", "Kubernetes", "Cloud Native"]
 philosophy:  "Build reliable systems that create real business value"
 ```
 
----
 
 ## Tech Stack
 
@@ -31,13 +29,13 @@ philosophy:  "Build reliable systems that create real business value"
 | **Cloud & DevOps** | AWS · Docker · Jenkins |
 | **Tooling** | Git · GitHub · Firebase · Jira |
 
----
+
 
 ## Achievement
 
 > 🥇 **Top 30% · Asia Region** — Social Business Creation (SBC) 2023
 
----
+
 
 ## Current Goals
 
@@ -49,7 +47,6 @@ philosophy:  "Build reliable systems that create real business value"
 05  Contribute to open source
 ```
 
----
 
 ## GitHub Analytics
 
@@ -58,7 +55,7 @@ philosophy:  "Build reliable systems that create real business value"
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0n1xy&layout=compact&theme=tokyonight"/>
 </div>
 
----
+
 
 ## Connect
 
